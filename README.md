@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, Hola, soy Angel Roman</h1>
 <h3 align="center">🌱 Soy un apasionado de la tecnologia, siempre viendo algo nuevo.</h3>
+<h3 align="center">Repositorio de Cursos en Activo</h3>
 
+- Actualmente...
 - 🌱 Programa de Aprendizaje Basado en Proyectos en Inteligencia Artificial | Septiembre 2024 | Ibm Skillsbuild
+- 🌱 Iniciación a la programación: Python Enero-Marzo 2025 | Ibm Skillsbuild
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
