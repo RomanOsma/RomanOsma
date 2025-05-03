@@ -6,8 +6,8 @@
 
 - 🌱 Programa de Becas Google Fundae Sepe. Análisis de Datos | Septiembre 2024 | Ibm Skillsbuild
 - 🌱 Programa de Aprendizaje Basado en Proyectos en Inteligencia Artificial | Septiembre 2024 | Ibm Skillsbuild
-- 🌱 Iniciación a la programación: Python Enero-Marzo 2025 | Ibm Skillsbuild
-- 🌱 Desarrollo Web en Python | Ibm Skillsbuild
+- 🌱 Iniciación a la programación: Python Septiembre 2024 | Ibm Skillsbuild
+- 🌱 Desarrollo Web en Python Septiembre 2024 | Ibm Skillsbuild
 - 🌱 Power BI curso becado - PBI 225 Enero-Marzo 2025 | Ibm Skillsbuild
 
 -Actualmente todo lo que veo 
