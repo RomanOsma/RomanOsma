@@ -3,12 +3,13 @@
 <h3 align="center">Repositorio de Cursos en Activo</h3>
 
 - Ultimos Acabados
-
+- 🌱 Program Crossing Languages | Septiembre 2022 | Luca TIC inTalent
+- 🌱 QA testing + java 240h | Febrero 2023 | Luca TIC inTalent
 - 🌱 Programa de Becas Google Fundae Sepe. Análisis de Datos | Septiembre 2024 | Ibm Skillsbuild
 - 🌱 Programa de Aprendizaje Basado en Proyectos en Inteligencia Artificial | Septiembre 2024 | Ibm Skillsbuild
-- 🌱 Iniciación a la programación: Python Septiembre 2024 | Ibm Skillsbuild
-- 🌱 Desarrollo Web en Python Septiembre 2024 | Ibm Skillsbuild
-- 🌱 Power BI curso becado - PBI 225 Enero-Marzo 2025 | Ibm Skillsbuild
+- 🌱 Iniciación a la programación: Python | Septiembre 2024 | Ibm Skillsbuild
+- 🌱 Desarrollo Web en Python | Septiembre 2024 | Ibm Skillsbuild
+- 🌱 Power BI curso becado - PBI 225 | Enero-Marzo 2025 | Ibm Skillsbuild
 
 -Actualmente todo lo que veo 
 - 🌱 Trayectoria profesional como ingeniero de IA Enero-Agosto 2025 | learn.microsoft.com
