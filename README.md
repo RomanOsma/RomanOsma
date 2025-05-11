@@ -10,7 +10,7 @@
 - 🌱 Desarrollo Web en Python | Septiembre 2024 | Ibm Skillsbuild
 - 🌱 Power BI - PBI 225 | Enero-Marzo 2025 | Ibm Skillsbuild
 - 🌱 Iniciación a la programación: Python | Septiembre 2024 | Ibm Skillsbuild
-- 🌱 Curso Certificado de Formación avanzada Backend: Python, Flask, Django - Marzo-Mayo 2025 | Ibm Skillsbuild
+- 🌱 Curso Avanzada Backend: Python, Flask, Django - Marzo-Mayo 2025 | Ibm Skillsbuild
 - 🌱 IA 325 - Marzo-Mayo 2025 | Ibm Skillsbuild
 
 -Actualmente todo lo que veo 
