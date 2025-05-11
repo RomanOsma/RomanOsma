@@ -10,17 +10,25 @@
 - 🌱 Iniciación a la programación: Python | Septiembre 2024 | Ibm Skillsbuild
 - 🌱 Desarrollo Web en Python | Septiembre 2024 | Ibm Skillsbuild
 - 🌱 Power BI curso becado - PBI 225 | Enero-Marzo 2025 | Ibm Skillsbuild
+- 🌱 Curso Certificado de Formación avanzada Backend: Python, Flask, Django - Marzo-Mayo 2025 | Ibm Skillsbuild
+- 🌱 IA 325 - Marzo-Mayo 2025 | Ibm Skillsbuild
 
 -Actualmente todo lo que veo 
 - 🌱 Trayectoria profesional como ingeniero de IA Enero-Agosto 2025 | learn.microsoft.com
 - 🌱 GitHub Foundations - Enero-Marzo 2025 | learn.microsoft.com
-- 🌱 Bootcamp de GitHub Foundations - Enero-Marzo 2025 | Codigofacilito
+- 🌱 GitHub Copilot - Enero-Marzo 2025 | learn.microsoft.com
+- 🌱 Trayectoria profesional como ingeniero de IA - Enero-Marzo 2025 | learn.microsoft.com
+- 🌱 Bootcamp de GitHub Actions - Enero-Marzo 2025 | Codigofacilito
 - 🌱 Bootcamp de DevOps con Azure - Enero-Marzo 2025 | Codigofacilito
+- 🌱 Bootcamp de GitHub Foundations - Enero-Marzo 2025 | Codigofacilito
 - 🌱 Data Science - FUNDAE - Enero-Marzo 2025 | Ibm Skillsbuild
+- 🌱 prompting Essential - FUNDAE - Enero-Marzo 2025 | Ibm Skillsbuild
 - 🌱 10 Semanas Certificado Profesional en Ciberseguridad | 2Q 2025 | Ibm Skillsbuild
 - 🌱 Data Analytics Certificate - Enero-Octubre 2025 | Ibm Skillsbuild
-- 🌱 Curso Certificado de Formación avanzada Backend: Python, Flask, Django - Marzo-Mayo 2025 | Ibm Skillsbuild
-- 🌱 IA 325 - Marzo-Mayo 2025 | Ibm Skillsbuild
+- 🌱 Seneca - Trabajo con IA Abril-Octubre 2025 | Ibm Skillsbuild
+- 🌱 Fundamentos de Inteligencia Artificial | 2Q 2025 | Ibm Skillsbuild
+- 🌱 CISCO Analista Junior en Ciberseguridad | 2025 | netacad.com
+
 
 Y en el tiempo libre algo de VR o aprender n8n y automatizacion.
 
