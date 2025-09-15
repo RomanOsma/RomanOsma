@@ -34,7 +34,7 @@ Y en el tiempo libre algo de VR o aprender n8n y automatizacion.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/angel-roman-861583139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiagorodriguezsanchez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/angel-roman-osma-861583139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AngelRomanOsma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
